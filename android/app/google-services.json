@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936685681765",
+    "project_id": "passport-intisana",
+    "storage_bucket": "passport-intisana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936685681765:android:4bc2f2339376c283e69a8c",
+        "android_client_info": {
+          "package_name": "com.mycompany.passportIntisana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5MRmILHpA8wsFzPxOXXkqnJKP6excHAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
